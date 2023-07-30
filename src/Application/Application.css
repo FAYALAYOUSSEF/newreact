@@ -1,0 +1,50 @@
+.application {
+  background-color: bisque;
+}
+
+
+.red {
+    background-color: red;
+    border-radius: 8px;
+    height: 4px;
+    width: 150px;
+    outline: none;
+    -webkit-appearance: none;
+  }
+.blue {
+    background-color: blue;
+    border-radius: 8px;
+    height: 4px;
+    width: 150px;
+    outline: none;
+    -webkit-appearance: none;
+  }
+.green {
+    background-color: green;
+    border-radius: 8px;
+    height: 4px;
+    width: 150px;
+    outline: none;
+    -webkit-appearance: none;
+  }
+  .alpha{
+    background-color: black;
+    border-radius: 8px;
+    height: 4px;
+    width: 150px;
+    outline: none;
+    
+  }
+  input[type='range']::-webkit-slider-thumb {
+    width: 6px;
+    -webkit-appearance: none;
+    height: 12px;
+    background: black;
+    border-radius: 2px;
+  }
+
+  .renf {
+    width: 200px;
+    height: 150px;
+    border:black 2px solid ;
+  }
